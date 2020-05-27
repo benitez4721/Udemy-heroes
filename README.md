@@ -10,4 +10,7 @@ Pueden hacer lo que quieran...
 
 Cambio realizado
 Nuevo cambio
+<<<<<<< HEAD
 qlq mardito
+=======
+>>>>>>> d9d636345ad2ab32cdfeee0c08d9e06a616557f2
