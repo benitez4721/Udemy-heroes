@@ -8,8 +8,6 @@ Pueden hacer lo que quieran...
 
 ## Cambio
 
-Cambio realizado
 
-Nuevo cambio
 
 
